@@ -45,6 +45,15 @@ class _HomepageState extends State<Homepage> {
                                 'https://hips.hearstapps.com/hmg-prod/images/gettyimages-180680638-676f621f720bc.jpg',
                             link: 'https://flutter.dev',
                           ),
+                          ProjectCard(
+                            title: 'Slap your Ex',
+                            date: '4 June 2025',
+                            description:
+                                'Ever feel like slapping your ex? Well, now you can — virtually! A cheeky and funny app to let out your frustration with playful slap animations. No harm done, just laughs guaranteed!',
+                            imageUrl:
+                                'https://i.ibb.co/G407vRzc/slapping-image.jpg',
+                            link: 'https://one-snowy-tau.vercel.app/',
+                          ),
                         ],
                       ),
                     ),
